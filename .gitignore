@@ -1,0 +1,12 @@
+node_modules
+dist
+dist-ssr
+*.local
+.DS_Store
+android
+ios
+.idea
+.vscode
+*.log
+.env
+.env.*
